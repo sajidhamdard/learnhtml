@@ -1,0 +1,152 @@
+# HTML Syllabus
+
+### Introduction
+
+- What is HTML?
+- Different versions of HTML?
+  - HTML 1
+  - HTML 2
+  - HTML 3
+  - HTML 4
+  - HTML 5
+- Why HTML?
+- DTD and CDATA
+- Semantic Elements
+- What is tag?
+- What is markup in HTML?
+- HTML page structure
+- Creating, saving and opening a HTML page
+- Tags
+  - DOCTYPE
+  - HTML
+  - Head
+  - title
+  - body
+  - img
+  - div
+  - span
+  - p
+  - a
+  - HTML lists
+  - div vs span tag?
+  - container tags
+  - empty elements
+  - nested elements
+  - Block level elements
+  - Inline level elements
+  - Nested HTML elements
+  - Heading Tags
+  - Colors
+    - HEX
+    - RGB
+    - HSLA
+    - RGBA
+    - HSL
+  - Tables
+    - table
+    - tr
+    - td
+  - HTML Attributes
+    - id
+    - class
+    - title
+    - lang
+    - Style
+    - align
+    - bgcolor
+    - background
+    - id
+    - width
+    - height
+    - src
+    - alt
+  - form
+  - form validations
+  - buttons
+
+### HTML 5
+- HTML 5 Introduction
+- HTML 5 Form Validate/No Validate
+- HTML5 Canvas
+- Embedding audio
+- Embedding video
+- drag and drop
+- HTML5 Local Storage
+- HTML5 Web Workers
+- Server Sent Events
+- HTML Attributes
+- Forms
+- Form Validation
+- Validation to HTML page
+- CSS Semantics
+- CSS Selectors
+- CSS styling
+- CSS color
+- CSS background
+- Borders
+- Margins
+- Padding
+- Box model
+- Height
+- width
+- tables
+- Selectors
+- display
+- CSS Buttons
+- CSS Animations
+- CSS Display
+- CSS float and clear
+- Css overflow
+- CSS Align Horizontal and Vertical
+- Responsive Web Design
+- View Port
+- Grid View
+- Media Queries
+- Flex Box
+### CSS
+- What is CSS?
+- selector
+  - id
+  - class
+  - tag
+- delcaration block
+- How to insert CSS?
+  - Internal Style Sheet
+  - External Sheet
+  - Inline Style
+- CSS positions
+  - static
+  - relative
+  - fixed
+  - absolute
+  - sticky
+- width
+- max-width
+- height
+- max-height
+- css overflow
+- float and clear
+- css align
+  - horizontal
+  - center
+- css border
+- css background
+  - background-color
+  - background-position
+  - background-image
+  - background-repeat
+  - background-attachement
+  - background-position
+- css margins - top, left, right, bottom
+- css padding
+- margin, padding, height, widht
+- css outline
+- css box-model
+- css links
+  - color
+  - font-family
+  - text-decoration
+  - background-color
+- css list
+- css fonts
+- css tables
